@@ -383,7 +383,7 @@ export default function SmartfloLanding() {
                         viewport={{ once: true }}
                         className="p-6 rounded-xl bg-gradient-to-r from-amber-500/5 to-pink-600/5"
                     >
-                        <p className="text-lg mb-2 font-medium">Made with ❤️ by Kunal</p>
+                        <p className="text-lg mb-2 font-medium">Made with ❤️ by Kunal Chandra</p>
                         <p className="text-sm">© 2025</p>
                         <p className="text-sm">For any queries contact us</p>
                     </motion.div>
