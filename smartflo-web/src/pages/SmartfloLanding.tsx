@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { Sun, Moon, X, ChevronDown, AlertTriangle, BarChart3, Clock, Car, Zap, Github, Star } from "lucide-react";
 
 export default function SmartfloLanding() {
-    const [darkMode, setDarkMode] = useState(false);
+    const [darkMode, setDarkMode] = useState(true);
     const [isModalOpen, setIsModalOpen] = useState(false);
     const [activeFeature, setActiveFeature] = useState(0);
     const modalRef = useRef(null);
