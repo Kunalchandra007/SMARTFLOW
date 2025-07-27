@@ -101,7 +101,7 @@ export default function SmartfloLanding() {
                 <div className="flex items-center gap-4">
                     {/* GitHub Star Button */}
                     <motion.a
-                        href="https://github.com/beetlejusse/SMARTFLOW"
+                        href="https://github.com/Kunalchandra007/SMARTFLOW"
                         target="_blank"
                         rel="noopener noreferrer"
                         initial={{ opacity: 0, x: 20 }}
@@ -383,8 +383,8 @@ export default function SmartfloLanding() {
                         viewport={{ once: true }}
                         className="p-6 rounded-xl bg-gradient-to-r from-amber-500/5 to-pink-600/5"
                     >
-                        <p className="text-lg mb-2 font-medium">Made with ❤️ by Team UNIT-13</p>
-                        <p className="text-sm">© 2025 DEKHO - Revolutionizing Traffic Management</p>
+                        <p className="text-lg mb-2 font-medium">Made with ❤️ by Kunal</p>
+                        <p className="text-sm">© 2025</p>
                     </motion.div>
                 </div>
             </footer>
