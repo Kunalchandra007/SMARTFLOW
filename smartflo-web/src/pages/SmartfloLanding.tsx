@@ -385,6 +385,7 @@ export default function SmartfloLanding() {
                     >
                         <p className="text-lg mb-2 font-medium">Made with ❤️ by Kunal</p>
                         <p className="text-sm">© 2025</p>
+                        <p className="text-sm">For any queries contact us</p>
                     </motion.div>
                 </div>
             </footer>
